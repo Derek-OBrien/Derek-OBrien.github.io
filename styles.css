@@ -296,6 +296,16 @@ header {
     border: 2px solid #6BB5D0;
 }
 
+
+.education ul ul li:before {
+    display: none;
+}
+
+
+.education ul ul li{
+    padding-left: 25px;
+    margin-bottom: 10px;
+}
 .experience {
     border-color: #6BB5D0;
 }
