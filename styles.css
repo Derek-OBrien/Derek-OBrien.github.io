@@ -298,7 +298,7 @@ header {
 
 
 .education ul ul li:before {
-    display: none;
+    display: none !important;
 }
 
 
